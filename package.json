@@ -1,0 +1,23 @@
+{
+  "name": "DemoBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff029/DemoBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff029/DemoBlog/issues"
+  },
+  "homepage": "https://github.com/jeff029/DemoBlog#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
